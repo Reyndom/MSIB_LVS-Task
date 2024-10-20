@@ -1,0 +1,7 @@
+** sch_path: /home/mreza/osic-multitool/Polytron/ring_osilator.sch
+
+* expanding   symbol:  /home/mreza/osic-multitool/Polytron/inverter.sym # of pins=4
+** sym_path: /home/mreza/osic-multitool/Polytron/inverter.sym
+** sch_path: /home/mreza/osic-multitool/Polytron/inverter.sch
+
+.end
